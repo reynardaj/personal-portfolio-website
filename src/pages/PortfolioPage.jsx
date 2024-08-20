@@ -18,6 +18,7 @@ import mainProjectImage from "../assets/images/asphalt-clone-img.webp";
 import sideProjectImage1 from "../assets/images/smoke-detector-img.webp";
 import sideProjectImage2 from "../assets/images/object-detection-img.webp";
 import sideProjectImage3 from "../assets/images/invitation-website-img.webp";
+import sideProjectImage4 from "../assets/images/arlene-invitation.webp";
 
 var githubLink = "https://github.com/reynardaj/Asphalt-Website-Clone.git";
 
@@ -42,6 +43,13 @@ const cardData = [
     description:
       "A mobile first design, functional site built with Elementor and various plugins.",
     link: "https://elixir-f5bd32.ingress-earth.ewp.live/",
+  },
+  {
+    image: sideProjectImage4,
+    title: "Sweet seventeen invitation website",
+    description:
+      "A mobile first design, functional site built with vite, react, tailwind, typescript, nodejs.",
+    link: "https://arlene.freewebhostmost.com/",
   },
 ];
 

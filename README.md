@@ -1,39 +1,26 @@
-# Material UI - Vite.js example
+# Personal Portfolio Website
 
-## How to use
+## Description
+A personal portfolio website built with React and Vite to showcase projects and skills.
 
-Download the example [or clone the repo](https://github.com/mui/material-ui):
+## Features
+- Responsive design
+- Interactive project showcase
+- Contact form
 
-<!-- #default-branch-switch -->
+## Tech Stack
+- **React**: JavaScript library for building user interfaces
+- **Vite**: Fast build tool and development server
+- **MUI**: Styling
 
-```bash
-curl https://codeload.github.com/mui/material-ui/tar.gz/next | tar -xz --strip=2 material-ui-next/examples/material-ui-vite
-cd material-ui-vite
-```
+## Installation
 
-Install it and run:
-
-```bash
-npm install
-npm run dev
-```
-
-or:
-
-<!-- #default-branch-switch -->
-
-[![Edit on StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/mui/material-ui/tree/next/examples/material-ui-vite)
-
-[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/sandbox/github/mui/material-ui/tree/next/examples/material-ui-vite)
-
-## The idea behind the example
-
-This example uses [Vite.js](https://github.com/vitejs/vite).
-It includes `@mui/material` and its peer dependencies, including [Emotion](https://emotion.sh/docs/introduction), the default style engine in Material UI v5.
-
-## What's next?
-
-<!-- #default-branch-switch -->
-
-You now have a working example project.
-You can head back to the documentation and continue by browsing the [templates](https://next.mui.com/material-ui/getting-started/templates/) section.
+1. Clone the repository:
+   git clone https://github.com/reynard_aj/personal-portfolio-website.git
+2. Navigate to the project directory:
+   cd personal-portfolio-website
+3. Install dependencies:
+   npm install
+4. Start the development server:
+   npm run dev
+5. Open your browser and go to http://localhost:your-port to view the site.
